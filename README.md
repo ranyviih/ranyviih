@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=github_dark&hide_border=true"/> 
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammsouzaa&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=rany_viih&show_icons=true&theme=github_dark&hide_border=true"/> 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rany_viih&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
 
@@ -20,6 +20,7 @@
   
 
 </div>
+
 <!--
 **ranyviih/ranyviih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
